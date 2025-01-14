@@ -30,7 +30,7 @@ A simple, interactive spreadsheet web app built using HTML5, JavaScript, and the
 
 1. Clone or download the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/spreadsheet-web-app.git
+   git clone https://github.com/Sushma271/Google_sheets
 
 2. open index.html
 
